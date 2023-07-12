@@ -1,6 +1,6 @@
 .outer-square {
   /* your css goes here */
-  border:  solid 1px;
+  /* border:  solid 1px; */
   width: 600px;
   height: 600px;
   display: flex;
@@ -14,6 +14,7 @@
   background-color: green;
   width: 150px;
    height: 150px;
+   padding: 10px;
   
 }
 .circle {
@@ -22,5 +23,6 @@
   width: 150px;
   height: 150px;
   border-radius: 50%;
+  padding: 10px;
   
 }
