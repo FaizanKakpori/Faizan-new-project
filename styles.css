@@ -1,0 +1,26 @@
+.outer-square {
+  /* your css goes here */
+  border:  solid 1px;
+  width: 600px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+   gap: 20px;
+}
+.inner-square {
+   /* your css goes here */
+  background-color: green;
+  width: 150px;
+   height: 150px;
+  
+}
+.circle {
+  /* your css goes here */
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  
+}
